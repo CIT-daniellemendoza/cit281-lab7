@@ -1,6 +1,6 @@
 # cit281-lab7
 ```
-PurposeL Getting to know GitHub. Create GitHub organization and repo, cloning repo, committing changes and pushing to GitHub
+Purpose: Getting to know GitHub. Create GitHub organization and repo, cloning repo, committing changes and pushing to GitHub
 ```
 
 Technologies Used:
